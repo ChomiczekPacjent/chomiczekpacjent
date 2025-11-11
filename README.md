@@ -6,5 +6,7 @@ My name is Blazej, and I'm an IT student passionate about **Python**, **AI**, an
 - I’m also into **music production** and exploring how **AI** can enhance sound and user experience.  
 - Feel free to connect with me or share project ideas!
 
-
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blazej%20Faber-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blazejfaber/)
+[![Email](https://img.shields.io/badge/Email-blazej.faber@gmail.com-red?logo=gmail&logoColor=white)](mailto:blazej.faber@gmail.com)
 
