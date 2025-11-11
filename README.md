@@ -10,3 +10,20 @@ My name is Blazej, and I'm an IT student passionate about **Python**, **AI**, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blazej%20Faber-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blazejfaber/)
 [![Email](https://img.shields.io/badge/Email-blazej.faber@gmail.com-red?logo=gmail&logoColor=white)](mailto:blazej.faber@gmail.com)
 
+##  Projects
+
+### 🐍 Python
+- [Hashtag Generator](https://github.com/ChomiczekPacjent/hashtag-generator) — generates hashtags using keyword analysis and simple AI-based logic.
+
+---
+
+### 🌐 Full Stack Web Apps (React, JavaScript, PHP, Java)
+- [Board Game](https://github.com/ChomiczekPacjent/BoardGame) — an interactive web-based board game built with React.  
+- [WE Gallery](https://github.com/ChomiczekPacjent/Web-Gallery-php) — PHP-based dynamic image gallery website.  
+- [Gallery JPRDS](https://github.com/ChomiczekPacjent/JPDSI) —  project showcasing gallery management and database integration.  
+- [Quiz ABCD](https://github.com/ChomiczekPacjent/JS-Quiz-Game) — JavaScript multiple-choice quiz with DOM interaction.
+
+---
+
+### ☕ Java / Games
+- [Checkers Game](https://github.com/ChomiczekPacjent/Warcaby---JAVA) — classic Checkers built in Java with GUI and game logic.
