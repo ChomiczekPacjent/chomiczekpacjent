@@ -23,7 +23,7 @@ Also into **music production** and the overlap between AI and sound.
 `scikit-learn` &nbsp; `PyTorch` &nbsp; `NumPy` &nbsp; `Pandas`
 
 **Other**
-`React / JS` &nbsp; `Java`
+`Swift / SwiftUI` &nbsp; `React / JS` &nbsp; `Java`
 
 ---
 
@@ -31,8 +31,8 @@ Also into **music production** and the overlap between AI and sound.
 
 | Project | Stack | Description |
 |---|---|---|
+| [MuseMe](https://github.com/ChomiczekPacjent/MuseMe) | Swift · SwiftUI · HealthKit | iOS app adapting music tempo to real-time heart rate |
 | [hashtag-generator](https://github.com/ChomiczekPacjent/hashtag-generator) | Python · AI | AI-based hashtag generation from keyword analysis |
-| [BoardGame](https://github.com/ChomiczekPacjent/BoardGame) | React | Interactive web board game |
 | [Checkers](https://github.com/ChomiczekPacjent/Warcaby---JAVA) | Java | Classic checkers with Swing GUI and full game logic |
 
 → more in [repositories](https://github.com/ChomiczekPacjent?tab=repositories)
