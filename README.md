@@ -7,7 +7,7 @@
 ---
 
 Computer Science graduate, currently starting my **Master's degree**.
-Focusing on **AI & Machine Learning** — building things with Python, experimenting with models, and figuring out where intelligence meets useful software.
+Focusing on **AI & Machine Learning**, building things with Python, experimenting with models, and figuring out where intelligence meets useful software.
 Also into **music production** and the overlap between AI and sound.
 
 > **Currently →** Starting MSc · deepening Python & AI/ML · exploring LLMs, audio ML, and agents
